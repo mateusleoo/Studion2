@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;900&family=Roboto:wght@400;700&display=swap');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/brands.min.css');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/solid.min.css');
+
+@import './css/_variables.css'; /* importação do css referente a variáveis*/
+@import './css/_base.css'; /* importação do css referente a base da page */
+@import './css/_utils.css'; /* importação do css referente a utilitários */
+@import './css/_btn.css'; /* mportação do css referente ao botão */
+
+@import './css/_navbar.css'; /* importação para reaproveitar a navbar */
+@import './css/_hero.css'; /* importação para reaproveitar o hero na aba empresa */
+@import './css/_footer.css'; /* iimportação para reaproveitar o footer */
+
+@import './css/_home.css'; /* importação da página home */
+@import './css/contact.css'; /* importação da página contatos */
+
+
